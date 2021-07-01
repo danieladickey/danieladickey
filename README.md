@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danieladickey
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning react (angular later)
+- 🌱 I’m currently learning React (Angular later)
 - 📫 Reach me at [danieladickey@gmail.com](mailto:danieladickey@gmail.com)
 
 <!---

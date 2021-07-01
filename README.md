@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @danieladickey
 - 👀 I’m interested in ... web dev
 - 🌱 I’m currently learning ... angular and react
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... danieladickey@gmail.com
 
 <!---
